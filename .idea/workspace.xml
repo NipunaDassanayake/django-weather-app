@@ -4,11 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a88bc8ba-4a48-47db-8af0-22e9a6538e80" name="Changes" comment="&quot;changed name a into WeatherProject&quot;" />
+    <list default="true" id="a88bc8ba-4a48-47db-8af0-22e9a6538e80" name="Changes" comment="created weatherApp">
+      <change afterPath="$PROJECT_DIR$/weatherApp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weatherApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weatherApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weatherProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/weatherProject/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -40,6 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -78,7 +94,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752428607483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created weatherApp">
+      <option name="closed" value="true" />
+      <created>1752428891975</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752428891975</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;created a WeatherApp file&quot;" />
     <MESSAGE value="&quot;changed name a into WeatherProject&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;changed name a into WeatherProject&quot;" />
+    <MESSAGE value="created weatherApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="created weatherApp" />
   </component>
 </project>
